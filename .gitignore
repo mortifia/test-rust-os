@@ -1,0 +1,7 @@
+/target
+
+# builded bootloader
+bootloader.bin
+
+# builded img
+os.img
