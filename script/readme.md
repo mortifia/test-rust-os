@@ -1,0 +1,1 @@
+Run at source of project ex `./script/test.sh`
